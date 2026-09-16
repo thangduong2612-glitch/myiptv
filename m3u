@@ -2,3 +2,10 @@
 #EXTINF:-1 tvg-name="China Open 2026" group-title="FPT Play",China Open 2026 (Vòng 4)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vod.fptplay53.net//POVOD/encoded/2026/04/26/chinaopen2026vong4-26041036-dfc7d485afa36b7d/H264/stream.mpd?st=QyMdCg9jyqW-av0z3p22Tw&expires=1789573004
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Man United vs Man City" group-title="FPT Play",Highlights: Manchester United vs Manchester City
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vod.fptplay53.net//POVOD_ECS/encoded/2026/09/14/manchesterunitedmanchestercityfancunghighlights-13091556-f7015407a654bfbd/H264/dash_drm/stream.mpd?st=urOVuEU_t9yM5WYF2XOnHQ&expires=1789574039
