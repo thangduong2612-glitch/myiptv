@@ -4,7 +4,6 @@
 https://vod.fptplay53.net//POVOD/encoded/2026/04/26/chinaopen2026vong4-26041036-dfc7d485afa36b7d/H264/stream.mpd?st=QyMdCg9jyqW-av0z3p22Tw&expires=1789573004
 
 
-#EXTM3U
 #EXTINF:-1 tvg-name="Man United vs Man City" group-title="FPT Play",Highlights: Manchester United vs Manchester City
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
